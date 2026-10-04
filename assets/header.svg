@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="380" viewBox="0 0 1280 380" role="img" aria-labelledby="title desc">
+  <title id="title">Hi, I'm Rishab. I build tools for a more useful AI ecosystem.</title>
+  <desc id="desc">Warm ivory background with forest green typography and a simple illustration of connected building blocks.</desc>
+  <rect width="1280" height="380" rx="24" fill="#f4f1e8"/>
+  <path d="M0 356H1280" stroke="#dcded1"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="64" fill="#536756" font-size="16" letter-spacing="3">RISHXB-ARCH / BUILDING IN THE OPEN</text>
+    <text x="60" y="148" fill="#193d30" font-size="67" font-weight="700" letter-spacing="-2">Hi, I'm Rishab.</text>
+    <text x="64" y="206" fill="#314e40" font-size="28">Making AI tools more useful,</text>
+    <text x="64" y="247" fill="#314e40" font-size="28">observable, and easier to work with.</text>
+    <text x="64" y="323" fill="#536756" font-size="17">AGENT INFRASTRUCTURE  /  DEVELOPER TOOLS  /  OPEN SOURCE</text>
+  </g>
+  <g transform="translate(885 64)">
+    <circle cx="130" cy="126" r="118" fill="#e6eadb"/>
+    <g fill="none" stroke="#7a9274" stroke-width="2">
+      <path d="M58 74H176V174H58Z"/><path d="M58 74L226 36M176 174L226 36M58 174L130 238"/>
+    </g>
+    <rect x="16" y="32" width="84" height="84" rx="20" fill="#264f3c"/>
+    <path d="M49 60L36 74L49 88M67 60L80 74L67 88" fill="none" stroke="#f4f1e8" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <rect x="133" y="131" width="86" height="86" rx="20" fill="#dbaa69"/>
+    <path d="M153 177H164L173 156L184 191L192 177H200" fill="none" stroke="#493b27" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="226" cy="36" r="12" fill="#dbaa69"/>
+    <circle cx="58" cy="174" r="10" fill="#f4f1e8" stroke="#264f3c" stroke-width="3"/>
+    <circle cx="130" cy="238" r="7" fill="#264f3c"/>
+    <path d="M252 107V127M242 117H262" stroke="#7a9274" stroke-width="2" stroke-linecap="round"/>
+  </g>
+</svg>
